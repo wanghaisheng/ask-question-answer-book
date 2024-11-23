@@ -1,3 +1,5 @@
+random 
+
 # shopconna tool
 Nuxt 3 Minimal Starter
 
